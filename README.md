@@ -7,17 +7,17 @@ This repository contains the mobile application for the Restaurant Management Sy
 #### Mobile application for login test only (waiter login need some id): [Restaurant Mobile Test APP](https://github.com/AkramLok/resstaurant-mobile-test-pfa)
 
 ## Key Features
-User Management: Login functionality for clients and servers.
-Order Management: Place orders, track order status, and receive notifications for updates.
-Loyalty System: Clients can earn and redeem points based on their purchases.
-Menu Browsing: Clients can view available menu items, including prices and descriptions.
-Promotions: Display promotions available to clients for loyalty rewards.
-Authentication: Secured authentication using tokens.
-Technologies Used
-React Native: For building cross-platform mobile apps (iOS & Android).
-Redux: For state management.
-Axios: For API calls to the backend.
-JWT Authentication: For secure access to the backend API.
+- User Management: Login functionality for clients and servers.
+- Order Management: Place orders, track order status, and receive notifications for updates.
+- Loyalty System: Clients can earn and redeem points based on their purchases.
+- Menu Browsing: Clients can view available menu items, including prices and descriptions.
+- Promotions: Display promotions available to clients for loyalty rewards.
+- Authentication: Secured authentication using tokens.
+## Technologies Used
+- React Native: For building cross-platform mobile apps (iOS & Android).
+- Redux: For state management.
+- Axios: For API calls to the backend.
+- JWT Authentication: For secure access to the backend API.
 ## Installation & Setup
 1. Clone the repository:
 ```
