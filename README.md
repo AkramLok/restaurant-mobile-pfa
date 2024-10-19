@@ -2,9 +2,9 @@
 This repository contains the mobile application for the Restaurant Management System, developed using React Native. This app allows clients to browse the menu, place orders, and participate in loyalty programs, while servers can manage and track orders.
 
 ## Other Links:
-- Backend API (Spring Boot): [Restaurant Backend API](https://github.com/AkramLok/restaurant-backend-pfa)
-- Front Website (for Owners) : [Restaurant Frontend Web](https://github.com/AkramLok/restaurant-frontend-web-pfa)
-- Mobile application for login test only (waiter login need some id): [Restaurant Mobile Test APP](https://github.com/AkramLok/resstaurant-mobile-test-pfa)
+#### Backend API (Spring Boot): [Restaurant Backend API](https://github.com/AkramLok/restaurant-backend-pfa)
+#### Front Website (for Owners) : [Restaurant Frontend Web](https://github.com/AkramLok/restaurant-frontend-web-pfa)
+#### Mobile application for login test only (waiter login need some id): [Restaurant Mobile Test APP](https://github.com/AkramLok/resstaurant-mobile-test-pfa)
 
 ## Key Features
 User Management: Login functionality for clients and servers.
