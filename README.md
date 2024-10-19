@@ -1,4 +1,4 @@
-## Mobile App (React Native) - Restaurant Management System
+## Mobile App by @oussama-krittel (React Native) - Restaurant Management System
 This repository contains the mobile application for the Restaurant Management System, developed using React Native. This app allows clients to browse the menu, place orders, and participate in loyalty programs, while servers can manage and track orders.
 
 ## Other Links:
